@@ -3,7 +3,7 @@
 This project is a complete personal portfolio website built to showcase my web development projects, technical skills, professional services, and contact information in a modern and engaging layout.
 
 ## Live Demo
-👉 **[Click here to view the live preview](https://beky08.github.io/portfolio/)**
+ **[Click here to view the live preview](https://beky08.github.io/portfolio/)**
 
 ## Project Preview
 <img width="1912" height="937" alt="Portfolio Preview" src="https://github.com/user-attachments/assets/dcfeb6b6-2a8b-4582-9224-9f1ff8a5ea6a" />
