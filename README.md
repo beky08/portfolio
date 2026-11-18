@@ -6,7 +6,8 @@ This project is a complete personal portfolio website built to showcase my web d
 👉 **[Click here to view the live preview](https://beky08.github.io/portfolio/))**
 
 ## Project Preview
-<img width="1912" height="937" alt="Portfolio Preview" src="https://github.com/user-attachments/assets/dcfeb6b6-2a8b-4582-9224-9f1ff8a5ea6a" />
+<img width="1896" height="946" alt="image" src="https://github.com/user-attachments/assets/1d869894-eb1d-478d-9468-9556f25f5b0d" />
+
 
 ## Key Features
 * **Responsive Layout:** Displays cleanly across desktop, tablet, and mobile screens.
